@@ -29,7 +29,7 @@ CostFactor = 3.5
 //And this is the calculation
 BaseCost*Level*CostFactor = Cost
 
-//So...
+//So....
 10*2*3.5 = 70
 
 //I send the cost
